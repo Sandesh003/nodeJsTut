@@ -9,3 +9,11 @@ fs.mkdir('cars',{ recursive: true},err =>{
     
 })
 fs.mkdirSync('dogs');
+console.log('sandesh');
+console.log('Ghone');
+console.log('Prakash');
+console.log('Sandesh');
+
+
+
+
